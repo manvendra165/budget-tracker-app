@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;ExceptionsAdvice.java&apos; to &apos;bta-txns/src/main/java/in.bta.txns.controllers&apos;&#x0D;&#x0A;- Original project: &apos;bta-profiles&apos;&#x0D;&#x0A;- Destination element: &apos;bta-txns/src/main/java/in.bta.txns.controllers&apos;&#x0D;&#x0A;- Original element: &apos;in.bta.profiles.controllers.ExceptionsAdvice.java&apos;" description="Copy compilation unit" destination="=bta-txns/src\/main\/java&lt;in.bta.txns.controllers" element1="/src\/main\/java&lt;in.bta.profiles.controllers{ExceptionsAdvice.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1715244825022" units="1" version="1.0"/>
+</session>
